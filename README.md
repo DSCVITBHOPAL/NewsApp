@@ -1,16 +1,21 @@
-# news
+# News App -  Flutter
 
-A new Flutter project.
+## Screen shots -
+![asd](readmeImgs/1.png) ![asd](readmeImgs/2.png) ![asd](readmeImgs/3.png)
 
-## Getting Started
+## Tech Stack used - 
+- [Flutter](https://flutter.io)
+- [Bloc](https://pub.dev/packages/bloc)
+- Api -[NewApi](https://newsapi.org)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## How to run on your pc
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Clone this repo
+- open termial
+- navigate to this project
+- type `flutter run` -Make sure you have flutter installed.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Orignial project link: https://github.com/bilguunint/newsapp/
+
+# Learn and Enjoy
